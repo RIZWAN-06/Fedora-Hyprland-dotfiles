@@ -6,7 +6,12 @@ My personal Linux desktop setup. Tested on *Fedora 44* with Hyprland, Ambxst (Qu
 
 ## Screenshots
 
-(To be added here)
+<img width="1920" height="1080" alt="2026-09-15-211238_hyprshot" src="https://github.com/user-attachments/assets/5651d0de-ed71-4ef9-985e-afb7322e9b47" />
+
+
+<img width="1920" height="1080" alt="2026-09-15-211754_hyprshot" src="https://github.com/user-attachments/assets/a3c96ac3-c243-41bc-8d14-65e50c545a6f" />
+  <img width="1920" height="1080" alt="2026-09-15-210155_hyprshot" src="https://github.com/user-attachments/assets/5c7980ad-1b74-4b93-b8e3-82f15c6b832c" />
+
 
 ## 📦 What's Included 
 
@@ -101,6 +106,13 @@ Select *Hyprland (uwsm-managed)* on the login screen.
 | `Super + Alt + S` | Screenshots region |
 | `Super + Alt + A` | Screenshots full screen |
 | `Super + Alt + W` | Screenshots active window |
+
+
+### To change the user profile on lockscreen
+
+```bash
+ln -sf "---file_path---" ~/.face.icon
+```
 
 
 ## ⚠️ Known Quirks
