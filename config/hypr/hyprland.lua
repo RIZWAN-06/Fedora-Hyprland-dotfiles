@@ -20,6 +20,7 @@ hl.env("__GLX_VENDOR_LIBRARY_NAME", "mesa")
 hl.env("__NV_PRIME_RENDER_OFFLOAD", 0)
 hl.env("QT_SCALE_FACTOR", 1)
 hl.env("GDK_SCALE", 1)
+hl.env("HYPRSHOT_DIR", os.getenv("HOME") .. "/Pictures/Screenshots")
 
 -- Configuration Blocks
 hl.config({
