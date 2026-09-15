@@ -97,15 +97,15 @@ Select *Hyprland (uwsm-managed)* on the login screen.
 | `Super + X` | Lock-Screen |
 | `Super + M` | Log-Out |
 | `Super + C` | Close window |
-| `Super + V` | Toggle flothing |
+| `Super + V` | Toggle floathing |
 | `Super + K/L` | Move focus (Vim Keys) |
 | `Super + 1-10` | Switch workspaces |
 | `Super + Shift + 1-10` | Move window to workspaces |
-| `Super + S` | Toggle spacial window |
-| `Super + Shift + S` | Move window to spacial window |
-| `Super + Alt + S` | Screenshots region |
-| `Super + Alt + A` | Screenshots full screen |
-| `Super + Alt + W` | Screenshots active window |
+| `Super + S` | Toggle special window |
+| `Super + Shift + S` | Move window to special window |
+| `Super + Alt + S` | Screenshot region |
+| `Super + Alt + A` | Screenshot full screen |
+| `Super + Alt + W` | Screenshot active window |
 
 
 ### To change the user profile on lockscreen
