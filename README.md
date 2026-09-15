@@ -66,7 +66,7 @@ cp ~/.dotfiles/.zshrc ~/
 cp ~/.dotfiles/.p10k.zsh ~/
 ```
 
-### 5. Apply custom Ambxst QML overrides
+## 5. Apply custom Ambxst QML overrides
 
 Ambxst's bar layout lives in its source folder. To restore the custom look (battery-only right side, no calendar/weather/pomodoro popup):
 
